@@ -19,6 +19,10 @@ planet = [
 	'dwarf planet',
 	'goldilocks planet',
 	'exoplanet',
+	'iron planet',
+	'city planet',
+	'carbon planet',
+	'giant planet',
 
 ]
 
